@@ -39,3 +39,8 @@ Install required dependencies:
 pip install ultralytics
 pip install opencv-python
 
+## 🖼 Example Output
+
+Here is the detected result using YOLOv8:
+
+![Output Detection](https://raw.githubusercontent.com/yourname/repo/main/output_detected.jpg)
