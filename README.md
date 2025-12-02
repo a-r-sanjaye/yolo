@@ -43,4 +43,4 @@ pip install opencv-python
 
 Here is the detected result using YOLOv8:
 
-![Output Detection](https://raw.githubusercontent.com/yourname/repo/main/output_detected.jpg)
+![Output Detection](https://github.com/a-r-sanjaye/yolo/blob/main/output.png")
