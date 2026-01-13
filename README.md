@@ -1,17 +1,17 @@
-# 🧠 YOLOv8 Real-Time Object Detection
+#  YOLOv8 Real-Time Object Detection
 
 This project demonstrates **YOLOv8** (You Only Look Once version 8) for real-time object detection.  
 It supports webcam feed, image detection, and video processing with high accuracy and speed.
 
 ---
 
-## 🔰 Introduction
+##  Introduction
 YOLOv8 is the latest release by **Ultralytics** providing state-of-the-art performance in object detection and segmentation tasks.  
 This project helps beginners and developers quickly experiment with YOLOv8 using Python and OpenCV.
 
 ---
 
-## 🚀 Features
+##  Features
 ✔️ Real-time object detection using webcam  
 ✔️ Image & video file input support  
 ✔️ Adjustable confidence threshold  
@@ -23,7 +23,7 @@ This project helps beginners and developers quickly experiment with YOLOv8 using
 
 ---
 
-## 🛠 Technologies Used
+## Technologies Used
 - YOLOv8 (Ultralytics)
 - Python 3.x
 - OpenCV
@@ -31,7 +31,7 @@ This project helps beginners and developers quickly experiment with YOLOv8 using
 
 ---
 
-## 📦 Installation
+## Installation
 
 Install required dependencies:
 
